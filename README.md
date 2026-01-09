@@ -2,6 +2,8 @@
 
 Autonomous agent loop for implementing features. Breaks work into user stories, executes them one by one until complete.
 
+Based on [Geoffrey Huntley's Ralph pattern](https://ghuntley.com/ralph/).
+
 ## Installation
 
 ```bash
